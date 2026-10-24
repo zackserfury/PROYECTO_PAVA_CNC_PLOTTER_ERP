@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/J:/CNC_ERP_LITE/src/MODEL/Figura.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/InterfaceDAO/InterfacePedido.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/InterfaceDAO/InterfaceProveedor.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/EmpleadoPedidoDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/InterfaceDAO/InterfaceMaquina.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/InsumoFiguraDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/InterfaceDAO/InterfaceInsumoFigura.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MODEL/EnumTipoFigura.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/InterfaceDAO/InterfaceInsumoProveedor.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/InterfaceDAO/InterfaceEmpleadoPedido.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/MaquinaDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/ProveedorDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/InsumoProveedorDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MODEL/Proveedor.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/FiguraDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MODEL/Insumo.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/EmpleadoDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/ClienteDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/InterfaceDAO/InterfaceSingelton.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/CONTROLLER/ManagerDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MODEL/EnumEstatusMaquina.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/InterfaceDAO/InterfaceDAOIntermedio.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MODEL/Maquina.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/InsumosDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MODEL/EnumProcesosFigura.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MODEL/Empleado.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/MySQLDAO/PedidosDAO.java</file>
+            <file>file:/J:/CNC_ERP_LITE/src/Conexion/ConnDB.java</file>
+        </group>
+    </open-files>
+</project-private>
